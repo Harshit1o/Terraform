@@ -1,5 +1,4 @@
-# EC2 Instance Configuration
-
+#Creating ec2 instance
 # Create a VPC
 resource "aws_vpc" "main" {
   cidr_block           = var.vpc_cidr
