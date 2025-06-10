@@ -1,4 +1,3 @@
-# EC2 Instance Configuration
 
 # Create a VPC
 resource "aws_vpc" "main" {
